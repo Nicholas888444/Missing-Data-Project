@@ -1,0 +1,51 @@
+CustomerID,Gender,Age,Education,Occupation,MaritalStatus,ProductRating
+1001,Male,35,Bachelor's,Digital Marketing,Married,4.5
+1002,Female,28,Bachelor's,Software Engineer,Single,3.8
+1003,Male,45,Master's,Finance,Married,4.2
+1004,Female,32,High School,Sales,Single,
+1005,Female,,Master's,Teacher,Married,4.0
+1006,Male,40,Doctorate,Operations,Married,4.7
+1007,Male,38,Bachelor's,Marketing,Single,4.3
+1008,Female,35,Master's,,Single,4.1
+1009,Male,33,High School,Construction,Single,
+1010,Female,,Bachelor's,Data Analyst,Married,3.9
+1011,Male,29,Bachelor's,Software Developer,Single,4.6
+1012,Female,41,Master's,HR,Married,
+1013,Male,45,Master's,Finance,Single,
+1014,Female,36,Bachelor's,Operations,Married,4.8
+1015,Male,,High School,Marketing,Single,4.2
+1016,Female,27,Master's,Engineer,Married,
+1017,Male,39,,Operations,Single,4.4
+1018,Female,34,Bachelor's,Marketing,Married,4.9
+1019,Male,31,Bachelor's,Sales,Single,
+1020,Female,29,Master's,HR,Married,3.7
+1021,Male,35,Bachelor's,Digital Marketing,Married,4.5
+1022,Female,28,Bachelor's,Software Engineer,Single,3.8
+1023,Male,45,Master's,Finance,Married,4.2
+1024,Female,32,High School,Sales,Single,
+1025,Female,,Master's,Teacher,Married,4.0
+1026,Male,40,Doctorate,Operations,Married,4.7
+1027,Male,38,Bachelor's,Marketing,Single,4.3
+1028,Female,35,Master's,,Single,4.1
+1029,Male,33,High School,Construction,Single,
+1030,Female,,Bachelor's,Data Analyst,Married,3.9
+1031,Male,29,Bachelor's,Software Developer,Single,4.6
+1032,Female,41,Master's,HR,Married,
+1033,Male,45,Master's,Finance,Single,
+1034,Female,36,Bachelor's,Operations,Married,4.8
+1035,Male,,High School,Marketing,Single,4.2
+1036,Female,27,Master's,Engineer,Married,
+1037,Male,39,,Operations,Single,4.4
+1038,Female,34,Bachelor's,Marketing,Married,4.9
+1039,Male,31,Bachelor's,Sales,Single,
+1040,Female,29,Master's,HR,Married,3.7
+1041,Male,35,Bachelor's,Digital Marketing,Married,4.5
+1042,Female,28,Bachelor's,Software Engineer,Single,3.8
+1043,Male,45,Master's,Finance,Married,4.2
+1044,Female,32,High School,Sales,Single,
+1045,Female,,Master's,Teacher,Married,4.0
+1046,Male,40,Doctorate,Operations,Married,4.7
+1047,Male,38,Bachelor's,Marketing,Single,4.3
+1048,Female,35,Master's,,Single,4.1
+1049,Male,33,High School,Construction,Single,
+1050,Female,,Bachelor's,Data Analyst,Married,3.9
